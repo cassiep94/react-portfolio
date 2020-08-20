@@ -43,26 +43,29 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# Unit 20 React Homework: React Portfolio
+Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
+If you are opting out of career services, this is still a required assignment. Part of being a web developer means being a part of a community. Having a place to share your projects is necessary if you're applying for jobs, but is still critical on your journey as a developer.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Requirements
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+# Updated portfolio featuring 6 total projects
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Use React
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+A Header component that appears on multiple pages
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+A single Project component that will be used multiple times on a single page
 
-### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Navigation with React Router, dynamic rendering, or another third part router
+
+
+A Footer component that appears on multiple pages
+
+
+Update GitHub profile with pinned repositories featuring those same projects
