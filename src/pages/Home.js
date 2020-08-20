@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
-import pic from '../assets/images/picholder.JPG.png'
+// import pic from '../assets/images/picholder.JPG.png'
 
 function Home() {
   return (
@@ -15,7 +15,7 @@ function Home() {
           <hr color="#b3b3b3" />
         </div>
         <section id="floatimage">
-          <img src={pic} alt="Pic here"/>
+          {/* <img src={pic} alt="Pic here"/> */}
         </section>
         <p class="p">
           I am from Durango, Mexico. 
